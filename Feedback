@@ -1,0 +1,25 @@
+Feedback on Assignments
+Assignment 1
+Q8&9. A segment is a group of customers that are similar to each other. In the biplot figure, each user is represented by a number. 
+So, a segment in the plot is a group of numbers that are close to each other. So, there is three segments not 4 (-1)
+
+
+Assignmnet 2
+Q3. ratio_new_to_old1 in your code(0.88) is not compatible with your calculation(0.72). (-0.25) 
+Q5. Your calculation is not quite correct. Attached, find the correct one(-1).
+
+
+Mini Assignment 4
+Q.3. The k-Nearest Neighbor model where k = 1 is more complex than a model with k = 10. When k is set to 1, the model has to memorize every training example and retrieve the single closest match when making predictions. This can lead to overfitting and a more complex model. 
+When k is set to 10, the model considers a larger number of neighbors and can potentially generalize better to new data, resulting in a less complex model
+
+
+Assignment 3
+Good Job!! Keep it up. Some pointers you missed are: Q1 d - There is enough variation to reliably estimate the cross-price elasticities between 
+the two Tide pack sizes and Wisk 64. (-0.25) Q3, 4, 5- Models are wrongly implemented with factor(week) instead of week. Thus wrong estimates (-1) 
+Q4 a - The mean of promoflag is 0.82, hence in 82 percent of store-weeks one of the products was promoted (-0.5) Q6 f, g. Missing Result tables and solutions (-2) Q7 c - P&G can increase total Tide product line profits if the base price of Tide 128 oz and Tide 64 oz is increased by 5% , as Profit is maximum for this case. (-0.5)
+
+
+Assignment 4
+Great job!! Keep it up. Some pointers missed were - Part 1 Q1 - Yes: • Seasonal baking product • Historically promoted in holiday season • Baseline sales are higher for events 1 and 2 (-0.5) Q4 - Wrong ROI calculations. PFA the screenshot for answers. (-0.25) Part 2 Q1 c - Histograms for separate accounts missing (-0.25) 
+Q 4,5 - Wrong calculations/% values of ROI. PFB the screenshots of the correct answers. (-1)
