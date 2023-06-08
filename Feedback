@@ -23,3 +23,9 @@ Q4 a - The mean of promoflag is 0.82, hence in 82 percent of store-weeks one of 
 Assignment 4
 Great job!! Keep it up. Some pointers missed were - Part 1 Q1 - Yes: • Seasonal baking product • Historically promoted in holiday season • Baseline sales are higher for events 1 and 2 (-0.5) Q4 - Wrong ROI calculations. PFA the screenshot for answers. (-0.25) Part 2 Q1 c - Histograms for separate accounts missing (-0.25) 
 Q 4,5 - Wrong calculations/% values of ROI. PFB the screenshots of the correct answers. (-1)
+
+
+
+Final Assignment 
+Amazing Job!! Keep it up. Some pointers missed were - 1e - This effect can be interpreted as causal because the experiment manipulated variety exogenously or randomly.(-0) 4a - Missing "timeofday" variable in the model. (-0.125) 4d - Missing "timeofday" variable in the model. (c(2:9) instead of c(3:9)) (-0.125) 
+7d - The method and rationale is perfect but the calculations are not quite correct. PFA the screenshot for solution. In decreasing order of predicted CTR based on full xgb model, EA should buy 5500 of the top impressions as they have greater than or equal to 5 as ROI. The cost of this advertising spend is $275 and the revenue is $2116. EA should invest the remaining $725 in price promotions. (-1)
